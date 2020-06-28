@@ -26,13 +26,13 @@ $username = $_SESSION['name'];
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
        
     <!-- Favicon -->
-     <link rel="shortcut icon" href="Ressources\blog-removebg-preview.png" type="image/x-icon">
+        <link rel="shortcut icon" href="Ressources\blog-removebg-preview.png" type="image/x-icon">
      
       <!-- Font awesome -->
-     <script src="https://kit.fontawesome.com/f84ba90e3b.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/f84ba90e3b.js" crossorigin="anonymous"></script>
 
      <!-- Style css -->
-     <link rel="stylesheet" href="css\style.css">
+        <link rel="stylesheet" href="css\style.css">
         
     </head>
     <body>
@@ -63,7 +63,7 @@ $username = $_SESSION['name'];
                     </div>
                 
 
-            </div>
+        </div>
         <br> 
             <div class="row" id="profile">
                 
